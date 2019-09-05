@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567720175 source:c:\users\wood\desktop\nueva carpeta\primertrabajopractico\primertrabajopractico\funciones.c
+
+1567718913 source:c:\users\wood\desktop\nueva carpeta\primertrabajopractico\primertrabajopractico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1567717427 c:\users\wood\desktop\nueva carpeta\primertrabajopractico\primertrabajopractico\funciones.h
+
